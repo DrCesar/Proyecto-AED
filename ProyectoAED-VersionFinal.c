@@ -6,7 +6,7 @@ Josué Cifuentes
 Marcel Velasquez
 Josué Jacobs
 
-Algoritmo para que un ActivityBot puede ingresar y salir de un laberinto.
+Algoritmo para que un ActivityBot puede ingresar y salir de un laberinto rápidamente.
 Se utilizan matrices y vectores para poder navegar en el laberinto y saber
 por donde ya a pasado el robot.
 
